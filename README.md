@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats-pearl-six-93.vercel.app/api/top-langs/?username=slont&count_private=true)
-![slont's GitHub stats](https://github-readme-stats-pearl-six-93.vercel.app/api?username=slont&count_private=true)
-![trophy](https://github-profile-trophy.vercel.app/api?username=slont&count_private=true)
+![langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slont&theme=2077)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slont&theme=2077)
+![contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slont&theme=2077)
+
+![trophy](https://github-profile-trophy.vercel.app/api?username=slont&count_private=true&theme=onedark)
 
 <!--
 **slont/slont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
