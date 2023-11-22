@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats-pearl-six-93.vercel.app/api/top-langs/?username=slont&count_private=true)
+![slont's GitHub stats](https://github-readme-stats-pearl-six-93.vercel.app/api?username=slont&count_private=true)
+![trophy](https://github-profile-trophy.vercel.app/api?username=slont&count_private=true)
+
 <!--
 **slont/slont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
