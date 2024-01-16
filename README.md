@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-![langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slont&theme=2077)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slont&theme=2077)
-![contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slont&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slont&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slont&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slont&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slont&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slont&theme=2077&utcOffset=9)
 
 ![trophy](https://github-profile-trophy.vercel.app/api?username=slont&count_private=true&theme=onedark)
 
